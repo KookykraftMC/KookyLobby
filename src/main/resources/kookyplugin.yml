@@ -1,0 +1,4 @@
+name: Lobby
+main: com.kookykraftmc.kookylobby.KookyLobby
+priority: 80
+version: 1.0
